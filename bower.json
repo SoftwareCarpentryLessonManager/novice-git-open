@@ -1,7 +1,7 @@
 {
   "name": "novice-git-open",
   "version": "0.1.0",
-  "homepage": "http://software-carpentry.org/v5/novice/git/00-intro.html",
+  "homepage": "http://software-carpentry.org/v5/novice/git/04-open.html",
   "description": "Software Carpentry Novice Lesson About Open Science/Licensing",
   "main": "index.md",
   "keywords": [
